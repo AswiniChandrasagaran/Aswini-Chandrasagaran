@@ -70,10 +70,10 @@
 
 ## 💖 Passion & Pursuits
 
-- 🔐 **Cybersecurity Enthusiast** – Eager to explore ethical hacking, network defense, and digital threat analysis  
-- 🧪 Curious about **AI in Cybersecurity** and its role in threat detection  
-- 🎮 Love solving challenges on platforms like **Hack The Box**  
-- 🎨 Creative spirit with a passion for **digital and traditional arts**  
-- 🏸 Active lifestyle through **badminton** and **strategic games** like chess  
-- 🧩 Enjoy solving **Rubik’s Cube** to sharpen logical thinking
-
+- 🔐 Cybersecurity Enthusiast with a vision to build smarter, safer systems  
+- 🧪 Future Cybersecurity Scientist combining AI with threat detection  
+- 🧠 Ethical Hacking Explorer constantly seeking hands-on challenges  
+- 🏸 Competitive Badminton Player focused on strategy and agility  
+- ♟️ Chess Lover with a tactical mindset  
+- 🧩 Puzzle Solver: Rubik’s Cube & logic-based games  
+- 🎨 Passionate Artist with interests in digital illustrations
