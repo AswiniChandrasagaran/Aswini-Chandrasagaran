@@ -52,11 +52,27 @@
 
 ## 🛠️ Technical & Soft Skills
 
-- 💻 **Cybersecurity Tools**: Burp Suite, Hack The Box  
-- 👨‍💻 **Programming**: C++  
-- 📊 **Office Tools**: MS Office, Excel, Word, PowerPoint  
-- 🎨 **Editing**: Document Formatting, Image & Video Editing  
-- 🔄 Multitasking | 📋 Data Entry | 🧠 Problem-Solving | ⏳ Time Management  
+🔧 Technical Skills:
+- Cybersecurity Platforms     : Burp Suite, Hack The Box, TryHackMe (Learning)
+- Programming Languages       : C++, Python (beginner), Bash (basic scripting)
+- Networking Fundamentals     : OSI Model, IP addressing, ports & protocols
+- Ethical Hacking Basics      : Recon, vulnerability scanning, brute force
+- Tools & Utilities           : Wireshark, VirtualBox, Notepad++, Git/GitHub
+- Office Productivity         : Microsoft Excel, Word, PowerPoint, Outlook
+- Editing Tools               : Canva, CapCut, MS Photos, Google Docs
+- Data Management             : File structuring, basic database usage
+- Documentation & Reporting   : Financial vouchers, payroll, compliance logs
+
+🤝 Soft Skills:
+- Critical Thinking & Problem Solving
+- Time Management & Prioritization
+- Verbal & Written Communication
+- Detail-Oriented & Organized
+- Adaptable to New Technologies
+- Teamwork & Independent Task Ownership
+- Fast Learner & Self-Motivated
+- Stress Management & Deadline Handling
+- Analytical Thinking & Troubleshooting
 
 ---
 
@@ -71,9 +87,8 @@
 ## 💖 Passion & Pursuits
 
 - 🔐 Cybersecurity Enthusiast with a vision to build smarter, safer systems  
-- 🧪 Future Cybersecurity Scientist combining AI with threat detection  
 - 🧠 Ethical Hacking Explorer constantly seeking hands-on challenges  
 - 🏸 Competitive Badminton Player focused on strategy and agility  
 - ♟️ Chess Lover with a tactical mindset  
 - 🧩 Puzzle Solver: Rubik’s Cube & logic-based games  
-- 🎨 Passionate Artist with interests in digital illustrations
+- 🎨 Passionate Fine Artist 
