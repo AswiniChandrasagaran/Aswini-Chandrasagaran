@@ -21,7 +21,7 @@
 
 ## 💼 Work Experience
 
-## 🏢 RPS Selvam Enterprise
+🏢 RPS Selvam Enterprise
 Position     : Accounts & Operations Executive
 Duration     : 2022 – Present
 
