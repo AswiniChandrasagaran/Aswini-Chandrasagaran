@@ -21,12 +21,19 @@
 
 ## 💼 Work Experience
 
-### 🏢 RPS Selvam Enterprise  
-**HR & Administrative Clerk**  
-📅 *2022 – Present*  
-- 🧾 Processed payroll and financial vouchers  
-- 📊 Managed employee performance and documentation  
-- 📦 Handled procurement and compliance  
+## 🏢 RPS Selvam Enterprise
+Position     : Accounts & Operations Executive
+Duration     : 2022 – Present
+
+Responsibilities:
+- 🧾 Managed full set of accounts up to Profit & Loss
+- 💰 Handled salary processing, staff claims, and EPF/SOCSO submissions
+- 📑 Maintained accurate financial records and supported audit preparation
+- 🧮 Performed data entry for invoices, receipts, and payments
+- 📈 Assisted with monthly reporting and cash flow tracking
+- 📂 Managed documentation, filing, and compliance-related support
+- 🛒 Coordinated procurement and vendor negotiations
+- 🗓️ Supported scheduling, internal communication, and HR tasks  
 
 ---
 
