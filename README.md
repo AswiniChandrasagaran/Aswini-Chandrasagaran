@@ -40,7 +40,7 @@ Responsibilities:
 ## 🎓 Education
 
 ### 🏫 Universiti Teknologi Malaysia  
-📘 *Bachelor in Computer Science (Network Security)* (Currently Doing)
+📘 *Bachelor in Computer Science (Network Security)-(Currently Doing)*
 
 ### 🏫 University Malaysia Of Computer Science and Engineering  
 📗 *Foundation in Computer Engineering*
